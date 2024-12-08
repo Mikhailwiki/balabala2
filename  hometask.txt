@@ -1,2 +1,10 @@
 human.txt идентичны
 README в ветке master имеет дополненное описание пуговиц "with nice buttons on his jacket (buttons branch)"
+7 коммитов:
+init
+README added
+fix readme
+boots
+dots
+heat added
+add hometask.txt
