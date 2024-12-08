@@ -1,0 +1,2 @@
+human.txt идентичны
+README в ветке master имеет дополненное описание пуговиц "with nice buttons on his jacket (buttons branch)"
